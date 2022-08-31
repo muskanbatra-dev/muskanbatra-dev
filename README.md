@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskanbatra-dev&label=Profile%20views&color=0e75b6&style=flat" alt="muskanbatra-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/muskanbatra015" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/muskanbatra015?logo=twitter&style=for-the-badge" alt="https://twitter.com/muskanbatra015" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
